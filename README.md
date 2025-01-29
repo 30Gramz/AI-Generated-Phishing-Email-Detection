@@ -18,7 +18,15 @@ This project focuses on detecting AI-generated phishing emails using free tools 
 ### 3. Spam Filtering & Threat Detection
 
  - Configuring *SpamAssassin* to classify phishing emails.  
- - Training spam filters with phishing datasets. 
+ - Training spam filters with phishing datasets.
+
+### 4. Network Traffic Monitoring
+
+ - Capturing SMTP/IMAP email traffic with *Wireshark*.
+
+### 5. Automation & Scripting
+
+ - Writing Python scripts to process multiple emails automatically.  
 
 # Project Plan
 
