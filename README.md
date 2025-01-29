@@ -53,4 +53,8 @@ bash
 
 2. Install Required Tools
 
+ bash
+ 
+   sudo apt install python3 python3-pip wireshark spamassassin yara -y   (*copy onto Ubuntu terminal*)
+
   
