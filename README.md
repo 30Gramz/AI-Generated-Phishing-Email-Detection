@@ -59,6 +59,7 @@ sudo apt update && sudo apt upgrade -y    (*copy onto Ubuntu terminal*)
 
     Use public phishing email datasets:
  - PhishTank <a href="https://www.phishtank.com/">PhishTank</a>.
+ - SpamAssassin corpus <a href="https://spamassassin.apache.org/publiccorpus/">Spamassassin</a>.
  
 
   
