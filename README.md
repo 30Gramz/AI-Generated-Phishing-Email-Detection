@@ -79,6 +79,8 @@ bash :
 cat email_sample.eml | grep -E "From:|Subject:|Received:|Return-Path:"  (*copy onto Ubuntu terminal*)
 
  3. Check for AI-generated text patterns
+
+ - Look for unusual sentence structures and unnatural text flow.
  
 
   
