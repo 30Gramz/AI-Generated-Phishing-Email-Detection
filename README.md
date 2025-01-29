@@ -48,7 +48,7 @@ This project focuses on detecting AI-generated phishing emails using free tools 
 1. Update Ubuntu
 
 bash
-   sudo apt update && sudo apt upgrade -y  *copy onto Ubuntu terminal*
+   sudo apt update && sudo apt upgrade -y    *copy onto Ubuntu terminal*
 
 2. Install Required Tools
 
