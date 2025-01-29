@@ -42,4 +42,4 @@ This project focuses on detecting AI-generated phishing emails using free tools 
 - *YARA Rules* (to detect AI-generated patterns)  
 - *Phishing Email Dataset* (from open sources like PhishTank)
 
-# Step-by-Step Guide
+# Steps
