@@ -75,7 +75,7 @@ sudo apt update && sudo apt upgrade -y    (*copy onto Ubuntu terminal*)
 
  1. Extract email headers
 
-bash :
+- bash :
 cat email_sample.eml | grep -E "From:|Subject:|Received:|Return-Path:"  (*copy onto Ubuntu terminal*)
 
  3. Check for AI-generated text patterns
