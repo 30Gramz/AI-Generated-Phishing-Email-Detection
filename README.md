@@ -26,7 +26,12 @@ This project focuses on detecting AI-generated phishing emails using free tools 
 
 ### 5. Automation & Scripting
 
- - Writing Python scripts to process multiple emails automatically.  
+ - Writing Python scripts to process multiple emails automatically.
+
+### 6. Cybersecurity Investigation & Incident Response
+
+ - Collecting and analyzing phishing samples.
+ - Creating security reports on AI-generated phishing threats.  
 
 # Project Plan
 
