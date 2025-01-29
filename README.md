@@ -9,7 +9,11 @@ This project focuses on detecting AI-generated phishing emails using free tools 
  - Extracting and analyzing email headers.  
  - Identifying spoofed addresses and phishing indicators.
 
+
 ### 2. AI-Generated Text Detection
+
+ - Using *Python* to analyze text readability and detect AI patterns.  
+ - Writing *YARA rules* to flag AI-generated content.
 
 # Project Plan
 
