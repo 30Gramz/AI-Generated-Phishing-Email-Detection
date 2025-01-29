@@ -57,11 +57,11 @@ sudo apt update && sudo apt upgrade -y    (*copy onto Ubuntu terminal*)
 
  ## Step 2: Collect Phishing Email Samples
 
-    Use public phishing email datasets:
+1. Use public phishing email datasets
  - PhishTank <a href="https://www.phishtank.com/">PhishTank</a>.
  - SpamAssassin corpus <a href="https://spamassassin.apache.org/publiccorpus/">Spamassassin</a>.
 
-    Store them in a directory:
+2. Store them in a directory:
 
  bash :
  mkdir ~/phishing_emails && cd ~/phishing_emails  (*copy onto Ubuntu terminal*)
