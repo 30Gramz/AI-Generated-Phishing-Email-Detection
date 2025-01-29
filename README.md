@@ -72,6 +72,11 @@ sudo apt update && sudo apt upgrade -y    (*copy onto Ubuntu terminal*)
  mkdir ~/phishing_emails && cd ~/phishing_emails  (*copy onto Ubuntu terminal*)
 
  ## Step 3: Analyze Email Headers & Content
+
+ 1. Extract email headers
+
+bash :
+cat email_sample.eml | grep -E "From:|Subject:|Received:|Return-Path:"
  
 
   
