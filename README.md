@@ -15,6 +15,11 @@ This project focuses on detecting AI-generated phishing emails using free tools 
  - Using *Python* to analyze text readability and detect AI patterns.  
  - Writing *YARA rules* to flag AI-generated content.
 
+### 3. Spam Filtering & Threat Detection
+
+ - Configuring *SpamAssassin* to classify phishing emails.  
+ - Training spam filters with phishing datasets. 
+
 # Project Plan
 
 - *Ubuntu VM* (your existing setup)  
