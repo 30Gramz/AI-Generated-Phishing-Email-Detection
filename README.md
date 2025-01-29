@@ -49,4 +49,6 @@ This project focuses on detecting AI-generated phishing emails using free tools 
 
 bash
    sudo apt update && sudo apt upgrade -y
+2. Install Required Tools
+
   
