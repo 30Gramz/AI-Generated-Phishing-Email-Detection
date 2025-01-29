@@ -58,7 +58,7 @@ sudo apt update && sudo apt upgrade -y    (*copy onto Ubuntu terminal*)
  ## Step 2: Collect Phishing Email Samples
 
     Use public phishing email datasets:
- <a href="https://www.phishtank.com/">PhishTank</a>.
+ - PhishTank <a href="https://www.phishtank.com/">PhishTank</a>.
  
 
   
