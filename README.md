@@ -55,4 +55,10 @@ sudo apt update && sudo apt upgrade -y    (*copy onto Ubuntu terminal*)
  bash : 
  sudo apt install python3 python3-pip wireshark spamassassin yara -y   (*copy onto Ubuntu terminal*)
 
+ ## Step 2: Collect Phishing Email Samples
+
+ Use public phishing email datasets:
+ - 
+ 
+
   
