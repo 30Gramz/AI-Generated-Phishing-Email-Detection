@@ -44,7 +44,7 @@ This project focuses on detecting AI-generated phishing emails using free tools 
 
 # Steps
 
-## Step 1: Set Up Your Environment* 
+## Step 1: Set Up The Environment
 1. Update Ubuntu
 
 bash :
