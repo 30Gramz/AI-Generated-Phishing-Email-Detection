@@ -68,7 +68,7 @@ sudo apt update && sudo apt upgrade -y    (*copy onto Ubuntu terminal*)
 
 2. Store them in a directory:
 
- bash :
+ - bash :
  mkdir ~/phishing_emails && cd ~/phishing_emails  (*copy onto Ubuntu terminal*)
 
  ## Step 3: Analyze Email Headers & Content
