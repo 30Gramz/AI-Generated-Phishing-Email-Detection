@@ -43,3 +43,7 @@ This project focuses on detecting AI-generated phishing emails using free tools 
 - *Phishing Email Dataset* (from open sources like PhishTank)
 
 # Steps
+
+## Step 1: Set Up Your Environment* 
+1. Update Ubuntu  
+  
