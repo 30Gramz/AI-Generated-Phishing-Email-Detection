@@ -4,12 +4,12 @@ This project focuses on detecting AI-generated phishing emails using free tools 
 
 # Technical skills
 
-## 1. Email Security Analysis
+### 1. Email Security Analysis
 
  - Extracting and analyzing email headers.  
  - Identifying spoofed addresses and phishing indicators.
 
-## 2. AI-Generated Text Detection
+### 2. AI-Generated Text Detection
 
 # Project Plan
 
